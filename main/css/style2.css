@@ -1,0 +1,18 @@
+.red-c{
+   
+    color: red ;
+    font-weight: bold !important;
+}
+  .fw-b{
+    font-weight: bold; 
+  }
+  .name a{
+    color: #fff;
+    font-weight: bold;
+  }
+
+  .watchlist{
+    background-color: red;
+    color: #fff;
+    border-radius: 8px;
+  }
